@@ -38,6 +38,10 @@ a.image {
   padding: 0 0;
 }
 
+a.image img {
+  border-radius: 16px;
+}
+
 @media (max-width: 800px) {
   body {
     flex-direction: column;
